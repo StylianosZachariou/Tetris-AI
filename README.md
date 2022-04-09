@@ -18,3 +18,5 @@ A zipped file containing the executable can be downloaded from the Release page 
 <img src="https://user-images.githubusercontent.com/59959821/162565770-c51ee809-6469-4d19-8eca-6b1ed08d664d.png" width="400">
 
 As the generations progress the algorithm will become better at playing the game and achieving higher score.
+
+<img src="https://media.giphy.com/media/iw5E6pXF8uBkNaoM7X/giphy.gif" width"400">
