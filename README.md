@@ -11,10 +11,10 @@ A zipped file containing the executable can be downloaded from the Release page 
 
 - The console window, containing information for the current generation:
 
-![1](https://user-images.githubusercontent.com/59959821/162565745-1ffb5a23-7503-4921-a9c5-b4e5d02b8c41.png)
+<img src="https://user-images.githubusercontent.com/59959821/162565745-1ffb5a23-7503-4921-a9c5-b4e5d02b8c41.png" width="400">
 
 - The game window, showing the best player from the previous generation playing the game:
 
-![2](https://user-images.githubusercontent.com/59959821/162565770-c51ee809-6469-4d19-8eca-6b1ed08d664d.png)
+<img src="https://user-images.githubusercontent.com/59959821/162565770-c51ee809-6469-4d19-8eca-6b1ed08d664d.png" width="400")
 
 As the generations progress the algorithm will become better at playing the game and achieving higher score.
