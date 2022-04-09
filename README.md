@@ -15,6 +15,6 @@ A zipped file containing the executable can be downloaded from the Release page 
 
 - The game window, showing the best player from the previous generation playing the game:
 
-<img src="https://user-images.githubusercontent.com/59959821/162565770-c51ee809-6469-4d19-8eca-6b1ed08d664d.png" width="400")
+<img src="https://user-images.githubusercontent.com/59959821/162565770-c51ee809-6469-4d19-8eca-6b1ed08d664d.png" width="400">
 
 As the generations progress the algorithm will become better at playing the game and achieving higher score.
