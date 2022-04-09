@@ -19,4 +19,4 @@ A zipped file containing the executable can be downloaded from the Release page 
 
 As the generations progress the algorithm will become better at playing the game and achieving higher score.
 
-<img src="https://media.giphy.com/media/iw5E6pXF8uBkNaoM7X/giphy.gif" width"400">
+<img src="https://media.giphy.com/media/iw5E6pXF8uBkNaoM7X/giphy.gif" width="400">
